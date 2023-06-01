@@ -1,0 +1,24 @@
+{
+  "diagnostics.globals": [
+    "getInstructionSize",
+    "writeBytes",
+    "readBytes",
+    "onOpenProcess",
+    "getProcesslist",
+    "AOBScan",
+    "enumModules",
+    "getOpenedProcessID",
+    "getModuleSize",
+    "getNameFromAddress",
+    "getAddress",
+    "getCheatEngineDir",
+    "createMemScan",
+    "soExactValue",
+    "vtString",
+    "rtTruncated",
+    "fsmNotAligned",
+    "vtByteArray",
+    "createFoundList",
+    "readString"
+  ]
+}
